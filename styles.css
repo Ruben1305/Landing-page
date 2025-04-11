@@ -1,0 +1,94 @@
+.navbar  {
+
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10  px;
+    word-spacing: 50px;
+  
+}
+
+.nav-item{
+
+    display:inline;  
+    
+}
+
+.nav-link:hover{
+
+    color:red;
+
+}
+.nav-link{
+
+    color: white;
+       
+}
+
+.landing-container{
+
+    background-color:lightyellow;
+    text-align: center;
+    padding:10px
+
+    
+}
+
+.product-title{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    margin-bottom: 20px;
+    font-size: 50px;  
+}
+
+.product-subtitle{
+
+    font-size: 15px;
+    color:grey
+}
+    
+.hero-image{
+
+    max-width: 650px;
+    border-radius:30px;
+    margin-bottom: 25px;
+
+}
+
+.hero-text{
+
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    background-color: black;
+    opacity: 0.7 ;
+    color:white;
+    padding: 10px ;
+}
+
+.product-description{
+
+    font-size: 13px;
+    color:gray;
+    padding: 10px;
+
+}
+
+.cta-button{
+
+    background-color: green;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+}
+   
+.cta-button:hover{
+
+    color:red
+
+}
+
+    
+
