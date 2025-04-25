@@ -1,7 +1,7 @@
 body    {
 
     margin:0px;
-
+    text-align: center ;
 }
 
 .navbar  {
@@ -92,6 +92,7 @@ body    {
     color: white;
     border-radius: 30px;
     padding: 10px;
+    margin-bottom: 20px;
     
 } 
 
@@ -110,19 +111,20 @@ body    {
     padding: 10px;
     text-align: center;
     color: white;
-    
+
 }
 
 .footer-links{
 
     list-style: none;
-  
+    
+
 }
 
 .footer-link{
 
     color: white;
-    display: inline;
+    text-align: center;
 
 }
 
